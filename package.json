@@ -1,0 +1,22 @@
+{
+  "name": "itsFineJS",
+  "version": "1.0.0",
+  "description": "It's JS, take it easy and relax",
+  "main": "index.js",
+  "scripts": {
+    "start": "Hello World!",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GonikDaniel/itsFineJS.git"
+  },
+  "keywords": [],
+  "author": "Daniel Gonik <gonik.daniel88@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GonikDaniel/itsFineJS/issues"
+  },
+  "homepage": "https://github.com/GonikDaniel/itsFineJS#readme",
+  "engine": "node >= 7.6.0"
+}
